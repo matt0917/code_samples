@@ -1,7 +1,36 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+# Don't track content of these folders
+#node_modules/
+#someOtherfoler/
+*/.*/*
+
+
+# Compiled source #
+###################
+*.com
+*.cla
+.*.*
+*.dll
+*.mll
+*.exe
+*.o
+*.so
+*.pyc
+#.class
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
 
 # C extensions
 *.so
