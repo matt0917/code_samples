@@ -1,0 +1,6 @@
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week11_dll.ErrorProvider.multProjects.Referencing\Assignment\FinalExam\FinalExamData\bin\Debug\FinalExamData.dll
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week11_dll.ErrorProvider.multProjects.Referencing\Assignment\FinalExam\FinalExamData\bin\Debug\FinalExamData.pdb
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week11_dll.ErrorProvider.multProjects.Referencing\Assignment\FinalExam\FinalExamData\obj\Debug\FinalExamData.csprojAssemblyReference.cache
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week11_dll.ErrorProvider.multProjects.Referencing\Assignment\FinalExam\FinalExamData\obj\Debug\FinalExamData.csproj.CoreCompileInputs.cache
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week11_dll.ErrorProvider.multProjects.Referencing\Assignment\FinalExam\FinalExamData\obj\Debug\FinalExamData.dll
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week11_dll.ErrorProvider.multProjects.Referencing\Assignment\FinalExam\FinalExamData\obj\Debug\FinalExamData.pdb

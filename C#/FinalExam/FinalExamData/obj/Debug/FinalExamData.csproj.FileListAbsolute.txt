@@ -1,0 +1,10 @@
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week12_Final\FinalExam\FinalExamData\bin\Debug\FinalExamData.dll
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week12_Final\FinalExam\FinalExamData\bin\Debug\FinalExamData.pdb
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week12_Final\FinalExam\FinalExamData\obj\Debug\FinalExamData.csproj.CoreCompileInputs.cache
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week12_Final\FinalExam\FinalExamData\obj\Debug\FinalExamData.dll
+C:\Users\qkrwn\OneDrive\Documents\BCIT_ICANDOIT\COMP2614\week12_Final\FinalExam\FinalExamData\obj\Debug\FinalExamData.pdb
+E:\Git\BCIT\COMP2614_C#\week12_Final\FinalExam\FinalExamData\obj\Debug\FinalExamData.csproj.CoreCompileInputs.cache
+E:\Git\BCIT\COMP2614_C#\week12_Final\FinalExam\FinalExamData\obj\Debug\FinalExamData.dll
+E:\Git\BCIT\COMP2614_C#\week12_Final\FinalExam\FinalExamData\obj\Debug\FinalExamData.pdb
+E:\Git\BCIT\COMP2614_C#\week12_Final\FinalExam\FinalExamData\bin\Debug\FinalExamData.dll
+E:\Git\BCIT\COMP2614_C#\week12_Final\FinalExam\FinalExamData\bin\Debug\FinalExamData.pdb
